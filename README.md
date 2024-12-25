@@ -6,5 +6,5 @@ A Very Simple Project to learn about Websocket.
 3. Run yarn dev in both client and server directory
 4. Open http://localhost:5173/ in brower
 5. Type your username and mover cursor. 
-6. You can open mltiple such tab and you will cursor information is broadcasted from server to each User.
+6. You can open multiple such tab and you will cursor information is broadcasted from server to each User.
 
